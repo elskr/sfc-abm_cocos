@@ -1,4 +1,4 @@
-#Contingent Convertible Bonds and Macroeconomic Stability in a Stock-Flow Consistent Agent-Based Model
+# Contingent Convertible Bonds and Macroeconomic Stability in a Stock-Flow Consistent Agent-Based Model
 
 ##Overview
 
