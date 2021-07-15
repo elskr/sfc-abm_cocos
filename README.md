@@ -53,3 +53,5 @@ Copyright (c) 2021 Elise Kremer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the additional code associated with the CoCo extension of JMAB and associated documentation files (the "CoCo Extension"), to deal in the CoCo Extension without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the CoCo Extension, and to permit persons to whom the CoCo Extension is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the CoCo Extension.
+
+THE COCO EXTENSION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE COCO EXTENSION OR THE USE OR OTHER DEALINGS IN THE COCO EXTENSION.
