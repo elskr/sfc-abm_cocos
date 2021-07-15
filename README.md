@@ -13,7 +13,7 @@ The folder "paper" contains:
 
 - All the Plots Produced in the Experiments. In the case of the sensitivity experiments lighter grey lines correspond to higher values of the parameter.
 
-- The Executable Files to run simulations of the benchmark model by your own (in both the Baseline and Sensitivity Scenarios) and the R Scripts required to transform and analyze the results, and plot the figures. (See Read Me doc. in the “Launch Simulations” Folder)
+- The Executable Files to run simulations of the model by your own (in both the Baseline Empirical Validation and Policy Experiments Scenarios) and the R Scripts required to transform and analyze the results, and plot the figures. (See Read Me doc. in the “Launch Simulations” Folder)
 
 ##Prerequisites
 
