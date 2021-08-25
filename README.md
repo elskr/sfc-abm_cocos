@@ -9,11 +9,9 @@ The code requires and builds upon the JMAB platform (<a href="https://github.com
 ## Additional Contents
 
 The folder "paper" contains:
-- The pdf document of the paper presenting the model
-
-- All the Plots Produced in the Experiments. In the case of the sensitivity experiments lighter grey lines correspond to higher values of the parameter.
-
-- The Executable Files to run simulations of the model by your own (in both the Baseline Empirical Validation and Policy Experiments Scenarios) and the R Scripts required to transform and analyze the results, and plot the figures. (See Read Me doc. in the “Launch Simulations” Folder)
+- All the Plots Produced for the Baseline Validation of the model.
+- The data specifically used to produce the results presented in the article, obtained by running simulations.
+- The R Scripts required to transform and analyze the results, and plot the figures. (See Read Me doc. in the “Launch Simulations” Folder)
 
 ## Prerequisites
 
