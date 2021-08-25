@@ -1,0 +1,2 @@
+#class net.sourceforge.jabm.DesktopSimulationManager
+simulationController.numSimulations=10:1:10
