@@ -4,8 +4,6 @@
 
 This repository contains the code for the model presented in the paper "Contingent Convertible Bonds and Macroeconomic Stability in a Stock-Flow Consistent Agent-Based Model".
 
-A full list of the model parameters and their value can be found in the <a href="https://github.com/elskr/sfc-abm_cocos/blob/main/benchmark/Model/modelBenchmark_light.xml">corresponding section of the code</a>.
-
 ## Additional Contents
 
 The folder "paper" contains:
