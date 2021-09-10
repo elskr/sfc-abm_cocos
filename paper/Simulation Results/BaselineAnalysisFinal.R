@@ -1,5 +1,7 @@
-setwd("C:\Users\elise\Documents\GitHub\sfc-abm_cocos\paper\Simulation Results")
+#SET THE WORKING DIRECTORY WHERE THE RESULTS ARE STORED
+setwd("C:\Users\Documents\GitHub\sfc-abm_cocos\paper\Simulation Results")
 
+#IMPORT LIBRARIES
 library(mFilter)
 library(poweRlaw)
 library(tseries)

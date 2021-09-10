@@ -1,5 +1,7 @@
-setwd("C:\Users\elise\Documents\GitHub\sfc-abm_cocos\paper\Simulation Results")
+#SET THE WORKING DIRECTORY WHERE THE RESULTS ARE STORED
+setwd("C:\Users\Documents\GitHub\sfc-abm_cocos\paper\Simulation Results")
 
+#IMPORT LIBRARIES
 library("xlsx")
 library("dplyr")
 library("tidyverse")
@@ -8,7 +10,7 @@ library("poweRlaw")
 library("tseries")
 library("propagate")
 
-
+#The folder where data are stored
 folder<-"data_experiment1"
 
 #COMMENT IF MERGED .CSV FILES ALREADY CREATED#######
